@@ -318,7 +318,6 @@ var config = {
       alert("Sorry, Game Full! Try Again Later!");
     }
   }
-  
   // Game logic - Tried to space this out and make it more readable. Displays who won, lost, or tie game in result div.
   // Increments wins or losses accordingly.
   function gameLogic(player1choice, player2choice) {
